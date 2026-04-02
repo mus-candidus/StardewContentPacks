@@ -4,6 +4,7 @@
   "Version": "1.0",
   "Description": "There's a mouse in the house :-)",
   "UniqueID": "Candidus42.Mousehole",
+  "UpdateKeys": [ "Nexus: 44584" ],
   "ContentPackFor": {
     "UniqueID": "leroymilo.FurnitureFramework",
     "MinimumVersion": "3.0"
