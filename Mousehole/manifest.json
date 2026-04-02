@@ -1,0 +1,11 @@
+{
+  "Name": "Mousehole",
+  "Author": "Candidus42",
+  "Version": "1.0",
+  "Description": "There's a mouse in the house :-)",
+  "UniqueID": "Candidus42.Mousehole",
+  "ContentPackFor": {
+    "UniqueID": "leroymilo.FurnitureFramework",
+    "MinimumVersion": "3.0"
+  }
+}

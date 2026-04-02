@@ -1,0 +1,49 @@
+{
+  "Format": 3,
+  "Furniture": {
+    "[[ModID]].mousehole" : {
+      "Display Name": "Mousehole",
+      "Description": "There's a mouse in the house.",
+      "Rotations": 1,
+      "Collisions": { "Width": 1, "Height": 3 },
+      "Placement Restriction": 0,
+      "Placement Type": "Mural",
+      "Source Image": "assets/mousehole.png",
+      "Layers": [
+        {
+          "Source Rect": { "X": 0, "Y": 0, "Width": 16, "Height": 48 }
+        }
+      ],
+      "Animation": {
+        "Frame Count": 9,
+        "Frame Duration": [
+          5000,
+          500,
+          2000,
+          500,
+          1500,
+          1000,
+          500,
+          1000,
+          2000
+        ],
+        "Offset": [
+          { "X": 0,  "Y": 0 },
+          { "X": 16, "Y": 0 },
+          { "X": 0,  "Y": 0 },
+          { "X": 32, "Y": 0 },
+          { "X": 0,  "Y": 0 },
+          { "X": 64, "Y": 0 },
+          { "X": 80, "Y": 0 },
+          { "X": 64, "Y": 0 },
+          { "X": 48, "Y": 0 }
+        ],
+      },
+      "Animate When Placing": false,
+      "Shows in Shops": [
+        "Carpenter"
+      ],
+      "Price": 1
+    }
+  }
+}
